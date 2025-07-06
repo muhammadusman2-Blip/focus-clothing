@@ -1,0 +1,227 @@
+body{
+    margin:0px ;
+}
+nav{
+    width: 99.8%;
+    height: 25px;
+    border: 2px solid black;
+    background-color: #736647;
+    /* display: flex; */
+    border: none;
+    color: aliceblue;
+    position: fixed;
+    top: 0;
+    /* display: block; */
+    z-index: 1000;
+}
+.logo{
+    text-align: center;
+    font-size: 18px;
+}
+/* select */
+.select{
+    width: 99.8%;
+    height: 54px;
+    border: 0.1px solid black;
+    display: flex;
+    position: fixed;
+    top: 4%;
+    z-index: 1000;
+    background: linear-gradient(white, #eee);
+}
+.list{
+    width: 23%;
+    border: 2px solid black;
+}
+.icon{
+    margin-left: 15px;
+    padding-top: 17px;
+    display: flex;
+    
+}
+.icon>img{
+    text-align: center;
+  /* margin-left:44px ; */
+}
+.focus{
+    position: relative;
+    left: 37%;
+    width: 80%;
+    /* border: 2px solid #000000; */
+    text-align: center;
+    
+}
+.focus>img{
+    height: 50px;
+}
+.search{
+    width: 10%;
+    /* border: 2px solid black; */
+    padding-top: 19px;
+    
+}
+.profile{
+   position: relative;
+   right: 80px;
+   top: 18px;
+}
+.trolly{
+    position: relative;
+    right: 40px;
+    top: 18px;
+}
+/* div 3 */
+.div3{
+    width: 99.8%;
+    border: 0.1px solid rgba(0, 0, 0, 0.735);
+    height: 70px;
+    /* position: relative; */
+    position: fixed;
+    top: 13.4%;
+    border-color: aliceblue;
+    z-index: 1000;
+    background: linear-gradient(white);
+}
+.new{
+margin-left: 30%;
+ padding-top: 22px;
+ /* position: relative; */
+margin-bottom: 3px;
+}
+.summer{
+    padding-left: 20px;
+}
+section{
+    /* height: 24%; */
+    margin-top: 12%;
+    width: 99.8%;
+    height: auto;
+
+}
+.shirt6>img{
+    width: 99.9%;
+    height: 34%;
+    z-index: -1px;
+
+}
+
+.container{
+    display: flex;
+    border: 2px solid black;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-around;
+    height: auto;
+}
+.imgbox{
+    width: 300px;
+    height: 390px;
+    position: relative;
+    /* border: 2px solid black; */
+    margin-left: 40px;
+}
+.imgbox>img{
+    height: 100%;
+    width: 100%;
+}
+.offer{
+    position: absolute;
+    top: 5px;
+    right: 3px;
+    background-color: blue;
+    color: aliceblue;
+    padding-bottom: 0px;
+    text-align: center;
+}
+.off{
+    position: relative;
+    background-color: aqua;
+    top: 55px;
+    right: 0;
+    font-size: 20px;
+}
+
+.button{
+    text-align: center;
+}
+.button>button{
+    font-size: 15px;
+    text-align: center;
+    margin-top: 8%;
+    background-color: #232323;
+    color: aliceblue;
+    width: 20%;
+    height: 50px;
+    
+
+}
+.h3{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.play{
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    
+}
+.imgone{
+    width: 300px;
+    height: 350px;
+    position: relative;
+    /* border: 2px solid black; */
+}
+.imgone>img{
+    width: 100%;
+    height: 100%;
+}
+.percent{
+position: absolute;
+top: 10px;
+left: 0px;
+color: red;
+}
+.fabric{
+    /* position: absolute; */
+    position: relative;
+    top: 0px;
+    left: 110px;
+    background-color: greenyellow;
+    color: azure;
+    border-radius: 6px;
+    font-size: 20px;
+}
+.whatsapp{
+
+}
+.whatsapp>img{
+    font-size: 70px;
+    width: 60px;
+    position: fixed;
+    bottom: 200px;
+    z-index: 1000;
+}
+.focus{
+    display: flex;
+}
+/* box */
+.play{
+    display: flex;
+    margin-right: 0PX;
+    justify-content: space-around;
+}
+.ship{
+    margin-top: 150px;
+    margin-left: 180px;
+    /*  */
+    /* display: flex; */
+    /* justify-content: space-evenly; */
+}
+.ship>img{
+    font-size: 10px;
+}
+.free{
+    padding-right: 40px;
+}

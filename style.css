@@ -225,3 +225,29 @@ color: red;
 .free{
     padding-right: 40px;
 }
+.company{
+    /* border: 2px solid black; */
+    display: flex;
+    margin-top: 40PX;
+    background-color: #f5f4f4;
+
+} 
+.aboutus{
+    padding-left: 90px;
+    /* display: flex; */
+}
+.input{
+    margin-top: 10px;
+}
+.email{
+    padding-left: 130%;
+
+    
+}
+.email>input[type="text"]{
+    text-align: center;
+}
+.aboutus>.bold{
+    font-size: 20px;
+    
+}
